@@ -1,0 +1,19 @@
+{
+  "name": "ingest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "fastq": "^1.13.0",
+    "got": "^12.5.2",
+    "web3": "^1.8.0"
+  }
+}
